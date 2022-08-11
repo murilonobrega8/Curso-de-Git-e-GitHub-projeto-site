@@ -1,2 +1,2 @@
-# Curso-de-Git-e-GitHub-projeto-site
- Meu primeiro site HTML em treinamento.
+# projeto-site
+ Projeto de um site criado durante o curso de Git e GitHub
